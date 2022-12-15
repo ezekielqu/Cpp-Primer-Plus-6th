@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/workermanager.dir/src/boss.cpp.o CMakeFiles/workermanager.dir/src/employee.cpp.o CMakeFiles/workermanager.dir/src/manager.cpp.o CMakeFiles/workermanager.dir/src/workerManager.cpp.o CMakeFiles/workermanager.dir/src/workerSystem.cpp.o  -o workermanager 

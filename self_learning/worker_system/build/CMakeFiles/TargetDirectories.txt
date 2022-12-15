@@ -1,0 +1,3 @@
+/home/senn/workSpace/Cpp-Primer-Plus-6th/self_learning/worker_system/build/CMakeFiles/rebuild_cache.dir
+/home/senn/workSpace/Cpp-Primer-Plus-6th/self_learning/worker_system/build/CMakeFiles/workermanager.dir
+/home/senn/workSpace/Cpp-Primer-Plus-6th/self_learning/worker_system/build/CMakeFiles/edit_cache.dir
